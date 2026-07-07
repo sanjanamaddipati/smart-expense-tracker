@@ -47,7 +47,7 @@ Smart-Expense-Tracker/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Smart-Expense-Tracker.git
+git clone https://github.com/sanjanamaddipati/Smart-Expense-Tracker.git
 
 2. Navigate to the project folder:
 
